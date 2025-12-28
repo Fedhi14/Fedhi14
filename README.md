@@ -26,9 +26,11 @@ Traditional checkers game with glowing Ethiopian-themed UI
 🔹 Flutter | Game Logic  
 🔗 https://github.com/Fedhi14/dama-game
 
+
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fedhi14&show_icons=true&theme=dark&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fedhi14&show_icons=true&theme=dark&hide_border=true&format=png" />
+
 
 
 
