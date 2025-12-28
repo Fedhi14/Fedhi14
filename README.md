@@ -30,6 +30,8 @@ Traditional checkers game with glowing Ethiopian-themed UI
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Fedhi14&show_icons=true&theme=dark&hide_border=true&format=png" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fedhi14&show_icons=true&theme=dark&hide_border=true" />
+
 
 
 
