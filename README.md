@@ -27,7 +27,8 @@ Traditional checkers game with glowing Ethiopian-themed UI
 🔗 https://github.com/Fedhi14/dama-game
 
 ## 📊 GitHub Stats
-![Yadesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedhi14&show_icons=true&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fedhi14&show_icons=true&theme=dark&cache_seconds=1800" />
 
 
 
