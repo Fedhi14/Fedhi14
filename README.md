@@ -37,8 +37,11 @@ I love clean UI, smooth animations, and solving real-world problems.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YadesaMulugeta&layout=compact&theme=radical)
+<!-- GitHub Stats -->
+![Yadesa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fedhi14&show_icons=true&theme=radical)
 
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedhi14&layout=compact&theme=radical)
 
 
 <!--
