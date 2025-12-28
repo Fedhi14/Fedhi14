@@ -20,6 +20,8 @@ I love clean UI, smooth animations, and solving real-world problems.
 - [3D Ethiopian Checkers](https://github.com/YadesaMulugeta/3d-checkers) – Full-featured 3D checkers game built with KivyMD and Ursina.
 
 
+![Daily Vibe Demo](https://media.giphy.com/media/your-demo-gif.gif)
+
 
 ## 📊 GitHub Stats
 
