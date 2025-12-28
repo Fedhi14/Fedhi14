@@ -1,4 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Yadesa Mulugeta
+### Flutter Developer | Mobile App Enthusiast 🚀
+I am a passionate Flutter developer focused on building
+beautiful, fast, and scalable mobile applications.
+
+I love clean UI, smooth animations, and solving real-world problems.
+
+## 🛠 Tech Stack
+- 💙 Flutter & Dart
+- 🎨 Material Design / Cupertino
+- 🔥 Firebase (Auth, Firestore)
+- 🧠 State Management (Provider / Riverpod)
+- 🌐 REST APIs
+- 🧪 Git & GitHub
+
+
+## 📱 Featured Flutter Projects
+
+### 📌 Daily Vibe App
+A journaling & motivation app with aesthetic UI and smooth animations  
+🔹 Flutter | Firebase  
+🔗 https://github.com/Fedhi14/daily-vibe
+
+### 📌 Ethiopian Checkers Game (ዳማ)
+Traditional checkers game with glowing Ethiopian-themed UI  
+🔹 Flutter | Game Logic  
+🔗 https://github.com/Fedhi14/dama-game
+
+## 📊 GitHub Stats
+![Yadesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+
 
 <!--
 **Fedhi14/Fedhi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
