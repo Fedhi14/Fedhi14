@@ -17,7 +17,7 @@ I love clean UI, smooth animations, and solving real-world problems.
 ### 🚀 Featured Projects
 - [Daily Vibe](https://github.com/YadesaMulugeta/daily-vibe-app) – A journal app with real-paper UI design.
 - [Limitless Mindset](https://github.com/YadesaMulugeta/limitless-mindset) – Motivational story short videos generator.
-- [3D Ethiopian Checkers](https://github.com/YadesaMulugeta/3d-checkers) – Full-featured 3D checkers game built with KivyMD and Ursina.
+- [3D Ethiopian Checkers](https://github.com/YadesaMulugeta/3d-checkers) – Full-featured 3D checkers game That can allow the users to play with their friend by connecting locally built with Flutter
 
 
 ![Daily Vibe Demo](https://media.giphy.com/media/your-demo-gif.gif)
